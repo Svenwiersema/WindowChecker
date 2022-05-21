@@ -29,7 +29,6 @@ cursor.execute("SELECT * FROM ramen.ramen")
 
 for x in cursor:
     windows[x[0]] = x[1]
-    test = 1
 
 class Ui_MainWindow(object):
 
