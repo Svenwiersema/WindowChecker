@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/greenDot.png</file>
+    <file>img/Building.png</file>
+  </qresource>
+</RCC>
